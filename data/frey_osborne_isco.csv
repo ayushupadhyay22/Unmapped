@@ -1,0 +1,333 @@
+soc_code,isco_code,occupation,fo_probability,task_routine,task_cognitive,task_manual,lmic_note,risk_category
+11-1011,1120,Chief executives,0.016,0.1,0.95,0.1,Social/strategic tasks protect from automation globally,Low
+11-1021,1219,General and operations managers,0.016,0.2,0.9,0.1,,Low
+11-2021,1221,Marketing managers,0.014,0.2,0.9,0.05,,Low
+11-3011,1219,Administrative services managers,0.73,0.65,0.55,0.1,Admin coordination partially routine; higher LMIC risk,High
+11-3031,1211,Financial managers,0.069,0.3,0.85,0.05,,Low
+11-9013,1311,Farmers and ranchers,0.01,0.4,0.6,0.7,Manual/judgment mix; low LMIC automation risk,Low
+11-9041,1324,Engineering managers,0.017,0.15,0.9,0.2,,Low
+11-9111,1219,Medical and health services managers,0.036,0.2,0.85,0.15,,Low
+15-1131,2512,Computer programmers,0.48,0.3,0.9,0.05,Routine coding automatable; creative design less so,Medium
+15-1132,2512,"Software developers, applications",0.042,0.1,0.95,0.05,High cognitive creativity; durable,Low
+15-1133,2512,"Software developers, systems software",0.042,0.1,0.95,0.05,,Low
+15-1121,2521,Computer systems analysts,0.656,0.55,0.75,0.05,Analytical but routine-heavy portions automatable,Medium
+15-1141,2529,Database administrators,0.77,0.7,0.65,0.05,Routine DB tasks highly automatable,High
+15-1151,2529,Computer user support specialists,0.65,0.6,0.6,0.1,Tier-1 support routinisable; high LMIC risk,Medium
+17-2051,2149,Civil engineers,0.018,0.2,0.9,0.3,,Low
+17-2071,2151,Electrical engineers,0.15,0.25,0.88,0.25,,Low
+17-2141,2144,Mechanical engineers,0.01,0.2,0.9,0.3,,Low
+19-1011,2131,Animal scientists,0.028,0.2,0.85,0.3,,Low
+19-2031,2111,Atmospheric and space scientists,0.02,0.2,0.9,0.1,,Low
+19-3011,2632,Economists,0.43,0.4,0.85,0.05,,Medium
+19-3031,2634,"Clinical, counseling and school psychologists",0.004,0.1,0.85,0.15,Social intelligence bottleneck,Low
+19-3051,2635,Urban and regional planners,0.032,0.25,0.85,0.15,,Low
+19-4021,3116,Biological technicians,0.83,0.7,0.55,0.5,Lab routine tasks highly automatable,High
+21-1011,2635,Substance abuse counselors,0.013,0.1,0.75,0.2,Social intelligence bottleneck,Low
+21-1021,2635,"Child, family, and school social workers",0.032,0.1,0.75,0.2,,Low
+23-1011,2611,Lawyers,0.035,0.25,0.9,0.05,,Low
+25-2011,2341,Preschool teachers,0.007,0.1,0.8,0.3,Social/care bottleneck; low automation globally,Low
+25-2021,2341,Elementary school teachers,0.009,0.1,0.9,0.2,,Low
+25-2022,2342,Middle school teachers,0.009,0.1,0.9,0.2,,Low
+25-2031,2330,Secondary school teachers,0.009,0.1,0.9,0.2,,Low
+25-3011,2359,Adult literacy instructors,0.55,0.45,0.7,0.15,,Medium
+27-1011,2651,Art directors,0.023,0.1,0.9,0.1,Creative intelligence bottleneck,Low
+27-1014,2651,Multimedia artists and animators,0.042,0.15,0.88,0.1,,Low
+27-2012,2652,Producers and directors,0.012,0.1,0.9,0.1,,Low
+27-3011,2641,Radio and television announcers,0.83,0.65,0.5,0.1,Routine broadcast tasks highly automatable,High
+27-3031,2641,Public relations specialists,0.18,0.25,0.8,0.05,,Low
+27-3041,2642,Editors,0.056,0.3,0.85,0.05,,Low
+27-4011,3521,Audio and video equipment technicians,0.29,0.45,0.6,0.4,,Low
+29-1011,2212,"Internists, general",0.004,0.1,0.9,0.4,Clinical judgment bottleneck,Low
+29-1051,2211,Family and general practitioners,0.004,0.1,0.9,0.4,,Low
+29-1111,2221,Registered nurses,0.009,0.15,0.8,0.5,Social/care bottleneck,Low
+29-1141,2221,Registered nurses (duplicated group),0.009,0.15,0.8,0.5,,Low
+29-2011,3213,Medical and clinical laboratory technologists,0.45,0.55,0.65,0.4,Routine lab tasks automatable,Medium
+29-2012,3213,Medical and clinical laboratory technicians,0.69,0.65,0.55,0.4,Higher routine share than technologists,Medium
+29-2021,3211,Dental hygienists,0.19,0.3,0.7,0.55,,Low
+29-2032,3212,Diagnostic medical sonographers,0.65,0.6,0.65,0.3,,Medium
+29-2052,3212,Pharmacy technicians,0.92,0.85,0.4,0.35,Highly routinised dispensing tasks,High
+29-2061,3212,Licensed practical and vocational nurses,0.098,0.2,0.7,0.55,,Low
+29-9011,3259,Occupational health and safety specialists,0.014,0.2,0.8,0.3,,Low
+31-1011,5321,Home health aides,0.35,0.3,0.5,0.65,Physical care tasks hard to automate in LMIC,Medium
+31-9091,3211,Dental assistants,0.67,0.6,0.55,0.55,,Medium
+31-9092,3212,Medical assistants,0.73,0.65,0.55,0.4,,High
+43-1011,4110,First-line supervisors of office workers,0.27,0.4,0.7,0.1,,Low
+43-2011,4224,Switchboard operators,0.96,0.9,0.25,0.05,Near-fully automatable,High
+43-3011,4214,Bill and account collectors,0.899,0.85,0.35,0.05,Rule-based collections highly automatable,High
+43-3021,4312,Billing and posting clerks,0.96,0.9,0.25,0.05,,High
+43-3031,4312,"Bookkeeping, accounting clerks",0.98,0.92,0.3,0.05,Very high routine; automation likely soon,High
+43-3051,4132,Payroll and timekeeping clerks,0.97,0.9,0.3,0.05,,High
+43-3071,4212,Tellers,0.98,0.92,0.25,0.1,Already displaced by ATMs in urban areas,High
+43-4031,4221,"Court, municipal, and license clerks",0.97,0.9,0.3,0.05,,High
+43-4051,4115,Customer service representatives,0.55,0.65,0.45,0.05,Chat automation rising; LMIC voice support remains,Medium
+43-4061,4132,"Eligibility interviewers, government",0.96,0.88,0.35,0.05,,High
+43-4071,4419,File clerks,0.976,0.92,0.2,0.15,,High
+43-4111,4221,"Interviewers, except eligibility",0.92,0.82,0.35,0.05,,High
+43-4151,4131,Order clerks,0.98,0.92,0.2,0.05,,High
+43-4161,4416,Human resources assistants,0.9,0.8,0.4,0.05,,High
+43-5011,4321,Cargo and freight agents,0.9,0.82,0.35,0.1,,High
+43-5021,4323,Couriers and messengers,0.67,0.6,0.2,0.55,Physical delivery less automatable in LMIC,Medium
+43-5031,4321,"Dispatchers, except police/fire",0.83,0.75,0.4,0.05,,High
+43-5051,4321,Postal service clerks,0.95,0.88,0.25,0.2,,High
+43-5061,4321,"Production, planning clerks",0.95,0.88,0.35,0.1,,High
+43-5071,4323,"Shipping, receiving clerks",0.86,0.78,0.25,0.35,,High
+43-5111,4323,"Weighers, measurers, checkers",0.98,0.92,0.2,0.3,,High
+43-6011,4120,Executive secretaries and admin assistants,0.4,0.55,0.6,0.05,,Medium
+43-6012,4120,Legal secretaries,0.98,0.88,0.35,0.05,,High
+43-6013,4120,Medical secretaries,0.91,0.82,0.38,0.05,,High
+43-6014,4120,Secretaries and admin assistants,0.96,0.88,0.3,0.05,,High
+43-9011,4312,Computer operators,0.98,0.92,0.28,0.05,,High
+43-9021,4131,Data entry keyers,0.99,0.95,0.15,0.05,Highest routine; near-certain automation,High
+43-9041,4212,Insurance claims clerks,0.98,0.92,0.25,0.05,,High
+43-9051,4419,Mail clerks and mail machine operators,0.98,0.9,0.2,0.25,,High
+43-9061,4131,"Office clerks, general",0.96,0.88,0.28,0.1,,High
+43-9071,4419,"Office machine operators, except computer",0.97,0.9,0.2,0.2,,High
+43-9111,4131,Statistical assistants,0.76,0.7,0.5,0.05,,High
+35-1011,5120,Chefs and head cooks,0.096,0.25,0.65,0.7,Creative/manual mix; low automation in LMIC,Low
+35-1012,5120,"First-line supervisors, food prep",0.19,0.35,0.6,0.5,,Low
+35-2011,5120,"Cooks, fast food",0.81,0.75,0.25,0.65,Routine food prep highly automatable,High
+35-2012,5120,"Cooks, institution and cafeteria",0.73,0.68,0.28,0.65,,High
+35-2013,5120,"Cooks, private household",0.34,0.45,0.4,0.7,Social/domestic context protects somewhat,Medium
+35-2014,5120,"Cooks, restaurant",0.46,0.5,0.45,0.7,,Medium
+35-3011,5131,Bartenders,0.77,0.68,0.35,0.55,,High
+35-3021,5131,Combined food prep and serving workers,0.92,0.85,0.2,0.55,,High
+35-3031,5131,Dining room and cafeteria attendants,0.67,0.62,0.2,0.55,,Medium
+35-3041,5131,"Food servers, nonrestaurant",0.94,0.88,0.18,0.5,,High
+35-9011,5111,Dining room and cafeteria attendants,0.67,0.62,0.2,0.55,,Medium
+35-9021,5151,Dishwashers,0.64,0.6,0.1,0.7,,Medium
+39-1021,5142,First-line supervisors of personal service,0.12,0.25,0.65,0.35,,Low
+39-2011,5164,Animal trainers,0.71,0.55,0.4,0.55,,High
+39-3011,5141,Gaming dealers,0.99,0.95,0.15,0.2,,High
+39-3021,5141,Motion picture projectionists,0.97,0.9,0.15,0.15,,High
+39-4011,5163,Embalmers,0.06,0.3,0.55,0.65,Perception/manipulation bottleneck,Low
+39-4021,5163,Funeral attendants,0.3,0.4,0.4,0.5,,Medium
+39-5011,5141,Barbers,0.11,0.25,0.35,0.8,Manual dexterity/social; low LMIC automation risk,Low
+39-5012,5141,"Hairdressers, hairstylists, cosmetologists",0.11,0.22,0.38,0.8,,Low
+39-5091,5141,"Makeup artists, theatrical and performance",0.06,0.2,0.5,0.8,,Low
+39-5092,5141,Manicurists and pedicurists,0.34,0.4,0.25,0.8,,Medium
+39-5093,5141,Shampooers,0.84,0.78,0.15,0.6,,High
+39-5094,5141,Skin care specialists,0.38,0.42,0.4,0.7,,Medium
+39-6011,5111,Concierges,0.53,0.5,0.5,0.2,,Medium
+39-6012,5111,Baggage porters and bellhops,0.75,0.65,0.2,0.65,,High
+39-7011,5113,Tour guides,0.21,0.28,0.6,0.3,,Low
+39-9011,5322,Childcare workers,0.08,0.15,0.6,0.55,Care/social bottleneck; low LMIC automation,Low
+39-9021,5322,Personal care aides,0.35,0.3,0.5,0.65,,Medium
+39-9031,5152,Fitness trainers and aerobics instructors,0.143,0.22,0.6,0.7,,Low
+39-9032,5153,Recreation workers,0.28,0.35,0.55,0.55,,Low
+41-2011,5220,Cashiers,0.97,0.92,0.18,0.25,Self-checkout automation spreading,High
+41-2021,5220,Counter and rental clerks,0.9,0.85,0.22,0.2,,High
+41-2022,5220,Parts salespersons,0.77,0.7,0.35,0.2,,High
+41-2031,5220,Retail salespersons,0.92,0.82,0.28,0.3,Online retail automation displacing in urban LMIC,High
+41-3011,3321,Advertising sales agents,0.54,0.5,0.6,0.05,,Medium
+41-3021,3322,Insurance sales agents,0.92,0.82,0.45,0.05,,High
+41-3031,3311,"Securities, commodities, financial agents",0.54,0.55,0.7,0.05,,Medium
+41-3041,3321,Travel agents,0.99,0.95,0.35,0.05,Near-fully automated by online platforms,High
+41-9011,3321,Demonstrators and product promoters,0.4,0.5,0.4,0.25,,Medium
+41-9021,5223,Real estate brokers,0.86,0.72,0.5,0.1,,High
+41-9022,5223,Real estate sales agents,0.97,0.85,0.4,0.1,,High
+41-9041,3321,Telemarketers,0.99,0.95,0.2,0.05,Automated by IVR/chatbots; already high LMIC risk,High
+45-1011,6111,First-line supervisors of farming workers,0.097,0.3,0.65,0.6,Judgment in irregular tasks protects,Low
+45-2011,6111,Agricultural inspectors,0.55,0.55,0.6,0.45,,Medium
+45-2041,6111,Graders and sorters of agricultural products,0.91,0.85,0.15,0.65,Routine sorting highly automatable,High
+45-2091,6121,Agricultural equipment operators,0.55,0.55,0.3,0.75,Precision ag automation; LMIC lag due to costs,Medium
+45-2092,6113,"Farmworkers and laborers, crop",0.85,0.78,0.1,0.9,Routine harvest; LMIC low automation due to cheap labour,High
+45-2093,6121,"Farmworkers, farm equipment operators",0.63,0.6,0.2,0.8,,Medium
+45-4011,6310,Forest and conservation workers,0.27,0.4,0.45,0.8,,Low
+45-4021,6310,Fallers,0.43,0.5,0.2,0.85,,Medium
+45-4022,6310,Logging equipment operators,0.64,0.6,0.2,0.8,,Medium
+45-4023,6310,Log graders and scalers,0.55,0.55,0.3,0.65,,Medium
+47-1011,7110,First-line supervisors of construction,0.1,0.25,0.7,0.55,Coordination role protects,Low
+47-2011,7131,Boilermakers,0.38,0.45,0.45,0.8,,Medium
+47-2021,7112,Brickmasons and blockmasons,0.7,0.62,0.2,0.9,Physical/irregular protects in LMIC,High
+47-2022,7112,Stonemasons,0.7,0.62,0.2,0.9,,High
+47-2031,7131,Carpenters,0.33,0.42,0.35,0.85,,Medium
+47-2041,7131,Carpet installers,0.49,0.5,0.2,0.85,,Medium
+47-2042,7131,"Floor layers, except carpet",0.39,0.45,0.2,0.85,,Medium
+47-2044,7131,Tile and marble setters,0.39,0.45,0.2,0.85,,Medium
+47-2051,7121,Cement masons and concrete finishers,0.7,0.65,0.15,0.9,,High
+47-2061,7131,Construction laborers,0.88,0.8,0.1,0.9,Physical routine; LMIC labour cost protects,High
+47-2071,7123,"Paving, surfacing, and tamping operators",0.88,0.82,0.12,0.85,,High
+47-2111,7131,Electricians,0.15,0.28,0.55,0.8,Perception/manipulation in irregular settings,Low
+47-2121,7131,Glaziers,0.75,0.68,0.2,0.82,,High
+47-2131,7131,"Insulation workers, floor, ceiling, wall",0.61,0.58,0.15,0.85,,Medium
+47-2132,7131,"Insulation workers, mechanical",0.58,0.55,0.18,0.82,,Medium
+47-2141,7131,"Painters, construction and maintenance",0.38,0.45,0.25,0.85,,Medium
+47-2151,7131,Pipelayers,0.71,0.65,0.18,0.87,,High
+47-2152,7126,"Plumbers, pipefitters, steamfitters",0.38,0.42,0.4,0.82,,Medium
+47-2161,7131,Plasterers and stucco masons,0.76,0.68,0.15,0.88,,High
+47-2181,7131,Roofers,0.9,0.82,0.1,0.9,,High
+47-2211,7131,Sheet metal workers,0.68,0.6,0.3,0.82,,Medium
+47-2221,7131,Structural iron and steel workers,0.87,0.78,0.15,0.88,,High
+47-3011,7131,"Helpers--Brickmasons, blockmasons",0.97,0.9,0.08,0.9,,High
+47-3012,7131,Helpers--Carpenters,0.97,0.9,0.08,0.9,,High
+47-3013,7131,Helpers--Electricians,0.87,0.8,0.18,0.82,,High
+47-3014,7131,"Helpers--Painters, paperhangers, plasterers",0.94,0.88,0.1,0.88,,High
+47-3015,7131,"Helpers--Pipelayers, plumbers, pipefitters",0.94,0.88,0.12,0.88,,High
+47-3016,7131,Helpers--Roofers,0.97,0.9,0.08,0.9,,High
+47-4011,7131,Construction and building inspectors,0.12,0.28,0.72,0.4,Judgment/safety role; durable,Low
+47-4041,7131,Hazardous materials removal workers,0.19,0.35,0.45,0.75,,Low
+47-4051,7131,Highway maintenance workers,0.75,0.68,0.15,0.87,,High
+47-4061,7131,Rail-track laying and maintenance equipment ops,0.66,0.6,0.18,0.85,,Medium
+49-1011,7231,First-line supervisors of mechanics,0.14,0.28,0.68,0.55,,Low
+49-3011,7231,Aircraft mechanics and service technicians,0.15,0.3,0.65,0.72,Safety bottleneck,Low
+49-3021,7231,Automotive body and related repairers,0.32,0.42,0.5,0.8,,Medium
+49-3022,7231,Automotive glass installers and repairers,0.35,0.45,0.4,0.8,,Medium
+49-3023,7231,Automotive service technicians and mechanics,0.29,0.4,0.55,0.78,Diagnostics AI growing; LMIC lag,Low
+49-3031,7231,"Bus and truck mechanics, diesel specialists",0.28,0.4,0.55,0.78,,Low
+49-3041,7231,Farm equipment mechanics and service tech,0.24,0.38,0.55,0.78,,Low
+49-3042,7231,Mobile heavy equipment mechanics,0.2,0.35,0.58,0.8,,Low
+49-3043,7231,Rail car repairers,0.24,0.38,0.52,0.75,,Low
+49-3051,7231,Motorboat mechanics and service technicians,0.28,0.4,0.52,0.75,,Low
+49-3052,7231,Motorcycle mechanics,0.34,0.44,0.48,0.78,,Medium
+49-3053,7231,Outdoor power equipment and tools repairers,0.36,0.45,0.45,0.78,,Medium
+49-3091,7421,Bicycle repairers,0.94,0.88,0.22,0.72,Routine repair highly automatable,High
+49-3092,7421,Recreational vehicle service technicians,0.34,0.45,0.5,0.75,,Medium
+49-3093,7421,Tire repairers and changers,0.89,0.82,0.15,0.8,,High
+49-2011,7421,"Computer, automated teller, office machine repairers",0.03,0.18,0.65,0.72,Diagnostic skill; durable in LMIC informal market,Low
+49-2021,7421,"Radio, cellular, tower equipment installers",0.04,0.2,0.65,0.75,,Low
+49-2022,7421,Telecommunications equipment installers,0.05,0.22,0.65,0.72,,Low
+49-2094,7421,"Electrical and electronics repairers, commercial",0.18,0.32,0.6,0.72,,Low
+49-2095,7421,"Electrical and electronics repairers, powerhouse",0.02,0.15,0.7,0.7,,Low
+49-2096,7421,"Electronic equipment installers and repairers, motor vehicles",0.54,0.52,0.48,0.72,,Medium
+49-2097,7421,Electronic home entertainment equipment installers,0.84,0.78,0.3,0.6,Consumer electronics repair consolidating,High
+49-2098,7421,Security and fire alarm systems installers,0.12,0.28,0.58,0.72,,Low
+49-9021,7311,"Heating, AC, and refrigeration mechanics",0.35,0.44,0.52,0.8,,Medium
+49-9041,7311,Industrial machinery mechanics,0.65,0.6,0.42,0.78,,Medium
+49-9051,7311,Electrical power-line installers and repairers,0.08,0.22,0.62,0.8,,Low
+49-9061,7311,Camera and photographic equipment repairers,0.52,0.52,0.48,0.7,,Medium
+49-9071,7311,"Maintenance and repair workers, general",0.65,0.6,0.4,0.78,,Medium
+49-9091,7311,"Coin, vending, and amusement machine servicers",0.91,0.85,0.2,0.55,,High
+49-9095,7311,Manufactured building and mobile home installers,0.78,0.72,0.18,0.82,,High
+49-9096,7311,Riggers,0.64,0.58,0.22,0.85,,Medium
+49-9097,7311,Signal and track switch repairers,0.29,0.4,0.52,0.78,,Low
+49-9098,7311,"Helpers--Installation, maintenance, repair",0.9,0.84,0.15,0.82,,High
+51-1011,8111,First-line supervisors of production workers,0.29,0.38,0.68,0.55,,Low
+51-2011,8211,Aircraft structure assemblers,0.51,0.52,0.4,0.78,,Medium
+51-2021,8211,"Coil winders, tapers, finishers",0.97,0.92,0.12,0.75,,High
+51-2031,8211,Engine and other machine assemblers,0.87,0.82,0.18,0.78,,High
+51-2041,8211,Structural metal fabricators and fitters,0.78,0.72,0.25,0.82,,High
+51-2051,8211,Fiberglass laminators and fabricators,0.87,0.82,0.12,0.8,,High
+51-2091,8211,Adhesive bonding machine operators,0.96,0.92,0.1,0.75,,High
+51-2092,8211,Team assemblers,0.81,0.76,0.18,0.78,,High
+51-2093,8211,Timing device assemblers and adjusters,0.9,0.85,0.15,0.72,,High
+51-3011,8111,Bakers,0.89,0.82,0.22,0.75,,High
+51-3021,8111,Butchers and meat cutters,0.76,0.7,0.22,0.82,,High
+51-3022,8111,"Meat, poultry, and fish cutters and trimmers",0.87,0.82,0.12,0.85,,High
+51-3023,8111,Slaughterers and meat packers,0.87,0.82,0.12,0.88,,High
+51-3091,8111,Food and tobacco roasting machine operators,0.96,0.92,0.1,0.6,,High
+51-3092,8111,Food batchmakers,0.93,0.88,0.12,0.68,,High
+51-3093,8111,Food cooking machine operators,0.97,0.92,0.1,0.6,,High
+51-4011,7222,Computer-controlled machine tool operators,0.65,0.62,0.4,0.72,,Medium
+51-4021,7222,Extruding and drawing machine operators,0.96,0.92,0.12,0.72,,High
+51-4023,7222,"Rolling machine setters, metalworking",0.88,0.84,0.18,0.75,,High
+51-4031,7222,"Cutting, punching, press machine operators",0.96,0.92,0.1,0.72,,High
+51-4035,7222,Milling and planing machine operators,0.95,0.9,0.12,0.72,,High
+51-4041,7222,Machinists,0.65,0.6,0.42,0.72,,Medium
+51-4051,7221,Metal-refining furnace operators and tenders,0.95,0.9,0.12,0.78,,High
+51-4061,7222,"Model makers, metal and plastic",0.26,0.35,0.6,0.7,,Low
+51-4062,7222,"Patternmakers, metal and plastic",0.35,0.42,0.58,0.7,,Medium
+51-4071,7222,Foundry mold and coremakers,0.95,0.9,0.12,0.8,,High
+51-4072,7222,"Molding, coremaking, casting machine operators",0.97,0.92,0.1,0.78,,High
+51-4081,7222,"Multiple machine tool operators, metal",0.94,0.9,0.15,0.75,,High
+51-4111,7222,Tool and die makers,0.32,0.4,0.6,0.72,,Medium
+51-4121,7222,"Welders, cutters, solderers, brazers",0.67,0.62,0.3,0.8,Industrial welding automatable; informal less so,Medium
+51-4122,7222,"Welding, soldering, brazing machine operators",0.96,0.92,0.12,0.75,,High
+51-5011,7323,Bindery workers,0.98,0.92,0.1,0.65,,High
+51-5012,7323,Bookbinders,0.58,0.55,0.3,0.68,,Medium
+51-5021,7323,Job printers,0.88,0.82,0.22,0.6,,High
+51-5022,7323,Prepress technicians and workers,0.92,0.86,0.25,0.55,,High
+51-5023,7323,Printing press operators,0.57,0.55,0.35,0.65,,Medium
+51-6011,8153,Laundry and dry-cleaning workers,0.95,0.9,0.1,0.7,,High
+51-6021,7531,"Pressers, textile, garment, related materials",0.95,0.9,0.1,0.72,,High
+51-6031,7531,Sewing machine operators,0.89,0.84,0.12,0.8,Garment LMIC: partial automation with cheap labour,High
+51-6041,7531,Shoe and leather workers and repairers,0.72,0.65,0.22,0.8,,High
+51-6042,7531,Shoe machine operators and tenders,0.95,0.9,0.1,0.78,,High
+51-6051,7531,"Sewers, hand",0.49,0.5,0.18,0.85,,Medium
+51-6052,7531,"Tailors, dressmakers, and sewers",0.49,0.5,0.3,0.82,Custom/bespoke protects in informal LMIC,Medium
+51-6061,7531,Textile bleaching and dyeing machine operators,0.98,0.92,0.08,0.72,,High
+51-6062,7531,Textile cutting machine operators,0.97,0.92,0.1,0.72,,High
+51-6063,7531,Textile knitting and weaving machine operators,0.97,0.92,0.08,0.72,,High
+51-6064,7531,"Textile winding, twisting, drawing out machine ops",0.97,0.92,0.08,0.72,,High
+51-6091,7531,Extruding and forming machine operators (textile),0.96,0.9,0.1,0.72,,High
+51-6092,7531,Fabric and apparel patternmakers,0.55,0.52,0.45,0.68,,Medium
+51-6093,7531,Upholsterers,0.45,0.48,0.35,0.8,,Medium
+51-7011,7422,Cabinetmakers and bench carpenters,0.38,0.45,0.42,0.8,,Medium
+51-7021,7422,Furniture finishers,0.91,0.86,0.15,0.78,,High
+51-7031,7422,"Model makers, wood",0.29,0.38,0.58,0.72,,Low
+51-7032,7422,"Patternmakers, wood",0.32,0.4,0.55,0.72,,Medium
+51-7041,7422,Sawing machine setters and operators,0.95,0.9,0.1,0.8,,High
+51-7042,7422,"Woodworking machine operators, except sawing",0.96,0.9,0.1,0.78,,High
+51-8011,3133,Nuclear power reactor operators,0.38,0.48,0.65,0.45,,Medium
+51-8012,3133,Power distributors and dispatchers,0.82,0.75,0.4,0.28,,High
+51-8013,3133,Power plant operators,0.55,0.55,0.55,0.4,,Medium
+51-8021,3133,Stationary engineers and boiler operators,0.59,0.56,0.48,0.5,,Medium
+51-8031,3133,Water and wastewater treatment plant operators,0.86,0.8,0.3,0.5,,High
+51-9011,7311,Chemical equipment operators and tenders,0.67,0.62,0.38,0.58,,Medium
+51-9012,7311,"Separating, filtering, clarifying machine ops",0.96,0.92,0.1,0.58,,High
+51-9021,7311,"Crushing, grinding, polishing machine operators",0.97,0.92,0.08,0.7,,High
+51-9032,7311,Cutting and slicing machine operators,0.97,0.92,0.08,0.72,,High
+51-9041,7311,"Extruding, forming, pressing machine operators",0.97,0.92,0.08,0.72,,High
+51-9051,7311,"Furnace, kiln, oven, drier, kettle operators",0.94,0.88,0.1,0.65,,High
+51-9061,7311,"Inspectors, testers, sorters, samplers, weighers",0.97,0.92,0.2,0.62,,High
+51-9071,7311,Jewelers and precious stone and metal workers,0.28,0.38,0.5,0.78,,Low
+51-9081,7311,Dental laboratory technicians,0.84,0.78,0.35,0.72,,High
+51-9082,7311,Medical appliance technicians,0.73,0.68,0.4,0.65,,High
+51-9111,7311,Packaging and filling machine operators,0.98,0.94,0.08,0.65,,High
+51-9121,7311,"Coating, painting, spraying machine operators",0.96,0.9,0.1,0.7,,High
+51-9122,7311,"Painters, transportation equipment",0.76,0.7,0.2,0.8,,High
+51-9131,7311,Photographic process workers,0.88,0.82,0.25,0.6,,High
+51-9141,7311,Semiconductor processors,0.98,0.94,0.15,0.65,,High
+51-9151,7311,Photoengravers,0.96,0.9,0.18,0.6,,High
+51-9161,7311,Computer numerically controlled machine tool programmers,0.18,0.3,0.68,0.62,,Low
+51-9191,7311,Cementing and gluing machine operators,0.98,0.94,0.08,0.68,,High
+51-9192,7311,"Cleaning, washing, metal pickling equipment ops",0.97,0.92,0.08,0.65,,High
+51-9193,7311,Etchers and engravers,0.96,0.9,0.18,0.68,,High
+51-9194,7311,Coolant system operators,0.98,0.94,0.08,0.6,,High
+51-9195,7311,"Molders, shapers, casters, except metal and plastic",0.87,0.82,0.15,0.75,,High
+51-9196,7311,"Paper goods machine setters, operators",0.96,0.9,0.1,0.68,,High
+51-9197,7311,Tire builders,0.91,0.86,0.12,0.78,,High
+51-9198,7311,Helpers--Production workers,0.97,0.9,0.08,0.8,,High
+53-1011,8322,Aircraft cargo handling supervisors,0.25,0.38,0.62,0.55,,Low
+53-1021,8322,"First-line supervisors of helpers, movers",0.25,0.38,0.62,0.5,,Low
+53-1031,8322,First-line supervisors of transportation,0.28,0.4,0.62,0.48,,Low
+53-2011,3155,Airline pilots and flight engineers,0.55,0.52,0.7,0.4,Safety bottleneck; partial cockpit automation,Medium
+53-2021,3155,Air traffic controllers,0.28,0.4,0.78,0.12,Judgment in complex systems,Low
+53-2022,3155,Airfield operations specialists,0.39,0.48,0.58,0.35,,Medium
+53-3011,8321,Ambulance drivers and attendants,0.68,0.62,0.4,0.6,,Medium
+53-3021,8321,"Bus drivers, transit and intercity",0.67,0.62,0.25,0.6,AV technology; LMIC lag significant,Medium
+53-3022,8321,"Bus drivers, school",0.35,0.45,0.3,0.6,Child safety adds social complexity,Medium
+53-3031,8321,Driver/sales workers,0.98,0.9,0.18,0.65,,High
+53-3032,8321,Heavy and tractor-trailer truck drivers,0.79,0.72,0.22,0.68,Long-haul AV advancing; LMIC roads differ,High
+53-3033,8321,Light truck or delivery drivers,0.34,0.45,0.28,0.68,Last-mile complex; high LMIC gig economy,Medium
+53-3041,8321,Taxi drivers and chauffeurs,0.89,0.82,0.2,0.6,Rideshare+AV disruption; LMIC informal taxis,High
+53-3099,8321,"Motor vehicle operators, all other",0.79,0.72,0.22,0.65,,High
+53-4011,8311,Locomotive engineers,0.31,0.42,0.58,0.5,,Medium
+53-4012,8311,Locomotive firers,0.96,0.92,0.12,0.55,,High
+53-4013,8311,"Rail yard engineers, dinkey operators",0.82,0.76,0.2,0.55,,High
+53-4021,8311,"Railroad brake, signal, switch operators",0.75,0.7,0.28,0.5,,High
+53-4031,8311,Railroad conductors and yardmasters,0.58,0.55,0.45,0.48,,Medium
+53-4041,8311,Subway and streetcar operators,0.43,0.5,0.4,0.48,Automated metro lines growing,Medium
+53-5011,8350,Sailors and marine oilers,0.83,0.76,0.28,0.72,,High
+53-5021,8350,Ship and boat captains,0.27,0.38,0.68,0.55,Navigation automation partial,Low
+53-5022,8350,Ship engineers,0.33,0.42,0.65,0.55,,Medium
+53-6011,4323,Bridge and lock tenders,0.9,0.86,0.2,0.4,,High
+53-6021,4323,Parking lot attendants,0.98,0.94,0.1,0.35,,High
+53-6031,4323,Automotive and watercraft service attendants,0.9,0.86,0.15,0.45,,High
+53-6041,4323,Traffic technicians,0.48,0.5,0.52,0.35,,Medium
+53-6051,4323,Transportation inspectors,0.46,0.5,0.58,0.4,,Medium
+53-7011,9333,Conveyor operators and tenders,0.96,0.92,0.1,0.65,,High
+53-7021,9333,Crane and tower operators,0.59,0.56,0.38,0.72,,Medium
+53-7031,9333,Dredge operators,0.5,0.52,0.32,0.72,,Medium
+53-7041,9333,Hoist and winch operators,0.88,0.84,0.15,0.7,,High
+53-7051,9333,Industrial truck and tractor operators,0.89,0.84,0.12,0.72,Warehouse automation rising,High
+53-7061,9333,Cleaners of vehicles and equipment,0.89,0.84,0.08,0.7,,High
+53-7062,9111,"Laborer and freight, stock material movers",0.85,0.8,0.1,0.8,Physical task; LMIC labour cost protects,High
+53-7063,9333,Machine feeders and offbearers,0.97,0.92,0.08,0.72,,High
+53-7064,9333,"Packers and packagers, hand",0.98,0.94,0.06,0.78,,High
+53-7065,9333,Stockers and order fillers,0.97,0.92,0.1,0.72,Warehouse robotics; LMIC lag,High
+53-7071,9333,Gas compressor and gas pumping station operators,0.68,0.62,0.38,0.52,,Medium
+53-7072,9333,"Pump operators, except wellhead pumpers",0.8,0.74,0.28,0.55,,High
+53-7073,9333,Wellhead pumpers,0.8,0.74,0.28,0.6,,High
+53-7081,9333,Refuse and recyclable material collectors,0.68,0.62,0.1,0.82,Physical route; LMIC labour intensive,Medium
+53-7111,9333,Mine shuttle car operators,0.87,0.82,0.12,0.8,,High
+53-7121,9333,"Tank car, truck, and ship loaders",0.89,0.84,0.12,0.75,,High

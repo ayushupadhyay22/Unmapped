@@ -1,0 +1,161 @@
+country,iso3,iso_num,region,subregion,year,pct_no_education,pct_primary,pct_secondary,pct_post_secondary,youth_pop_thousands,scenario,age_group,source,pct_secondary_plus,skill_gap_index,exposed_youth_thousands
+Ghana,GHA,288,Sub-Saharan Africa,West Africa,2020,12.4,21.3,57.8,8.5,8420,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",66.3,33.7,2838.0
+Ghana,GHA,288,Sub-Saharan Africa,West Africa,2025,9.1,18.7,62.1,10.1,9150,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",72.2,27.799999999999997,2544.0
+Ghana,GHA,288,Sub-Saharan Africa,West Africa,2030,6.8,15.9,65.4,11.9,9840,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",77.30000000000001,22.7,2234.0
+Ghana,GHA,288,Sub-Saharan Africa,West Africa,2035,4.9,13.2,67.8,14.1,10420,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",81.89999999999999,18.1,1886.0
+Nigeria,NGA,566,Sub-Saharan Africa,West Africa,2020,22.4,28.1,43.2,6.3,82600,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",49.5,50.5,41713.0
+Nigeria,NGA,566,Sub-Saharan Africa,West Africa,2025,18.1,25.4,48.9,7.6,92800,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",56.5,43.5,40368.0
+Nigeria,NGA,566,Sub-Saharan Africa,West Africa,2030,14.2,22.4,54.1,9.3,103400,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",63.400000000000006,36.599999999999994,37844.0
+Nigeria,NGA,566,Sub-Saharan Africa,West Africa,2035,10.8,19.2,59.0,11.0,114200,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",70.0,30.0,34260.0
+Senegal,SEN,686,Sub-Saharan Africa,West Africa,2020,28.4,26.8,39.2,5.6,6840,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",44.800000000000004,55.2,3776.0
+Senegal,SEN,686,Sub-Saharan Africa,West Africa,2025,23.1,24.6,45.4,6.9,7620,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",52.3,47.7,3635.0
+Senegal,SEN,686,Sub-Saharan Africa,West Africa,2030,18.2,22.1,51.4,8.3,8440,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",59.7,40.3,3401.0
+Senegal,SEN,686,Sub-Saharan Africa,West Africa,2035,13.8,19.6,57.2,10.0,9260,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",67.2,33.400000000000006,3093.0
+Côte d'Ivoire,CIV,384,Sub-Saharan Africa,West Africa,2020,26.8,28.4,38.8,6.0,9840,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",44.8,55.2,5432.0
+Côte d'Ivoire,CIV,384,Sub-Saharan Africa,West Africa,2025,21.6,25.8,44.8,7.8,11020,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",52.599999999999994,47.400000000000006,5223.0
+Côte d'Ivoire,CIV,384,Sub-Saharan Africa,West Africa,2030,16.8,22.9,50.8,9.5,12260,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",60.3,39.7,4867.0
+Côte d'Ivoire,CIV,384,Sub-Saharan Africa,West Africa,2035,12.4,20.1,56.6,11.0,13480,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",67.6,32.5,4381.0
+Mali,MLI,466,Sub-Saharan Africa,West Africa,2020,48.2,26.4,22.1,3.3,8840,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",25.400000000000002,74.6,6595.0
+Mali,MLI,466,Sub-Saharan Africa,West Africa,2025,41.6,25.2,28.4,4.8,10260,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",33.199999999999996,66.8,6854.0
+Mali,MLI,466,Sub-Saharan Africa,West Africa,2030,34.8,24.1,34.6,6.5,11980,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",41.1,58.9,7056.0
+Mali,MLI,466,Sub-Saharan Africa,West Africa,2035,28.2,22.8,40.8,8.2,13860,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",49.0,51.0,7069.0
+Guinea,GIN,324,Sub-Saharan Africa,West Africa,2020,54.6,22.8,19.8,2.8,5420,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",22.6,77.4,4195.0
+Guinea,GIN,324,Sub-Saharan Africa,West Africa,2025,47.4,22.2,25.6,4.8,6240,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",30.400000000000002,69.6,4343.0
+Guinea,GIN,324,Sub-Saharan Africa,West Africa,2030,39.8,21.4,32.0,6.8,7220,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",38.8,61.199999999999996,4419.0
+Guinea,GIN,324,Sub-Saharan Africa,West Africa,2035,32.4,20.2,38.6,8.8,8360,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",47.400000000000006,52.599999999999994,4397.0
+Kenya,KEN,404,Sub-Saharan Africa,East Africa,2020,10.2,24.1,58.3,7.4,17820,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",65.7,34.3,6112.0
+Kenya,KEN,404,Sub-Saharan Africa,East Africa,2025,7.3,20.8,63.1,8.8,19410,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",71.9,28.1,5454.0
+Kenya,KEN,404,Sub-Saharan Africa,East Africa,2030,5.1,17.4,67.2,10.3,20840,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",77.5,22.5,4689.0
+Kenya,KEN,404,Sub-Saharan Africa,East Africa,2035,3.4,14.2,70.1,12.3,21960,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",82.39999999999999,17.599999999999998,3865.0
+Uganda,UGA,800,Sub-Saharan Africa,East Africa,2020,18.6,29.4,46.2,5.8,13980,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",52.0,48.0,6710.0
+Uganda,UGA,800,Sub-Saharan Africa,East Africa,2025,14.2,26.1,52.8,6.9,16140,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",59.699999999999996,40.3,6504.0
+Uganda,UGA,800,Sub-Saharan Africa,East Africa,2030,10.4,22.8,58.6,8.2,18560,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",66.8,33.2,6162.0
+Uganda,UGA,800,Sub-Saharan Africa,East Africa,2035,7.3,19.2,63.9,9.6,21100,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",73.5,26.5,5592.0
+Tanzania,TZA,834,Sub-Saharan Africa,East Africa,2020,14.8,31.2,48.4,5.6,20640,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",54.0,46.0,9494.0
+Tanzania,TZA,834,Sub-Saharan Africa,East Africa,2025,11.2,27.8,53.6,7.4,23460,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",61.0,39.0,9149.0
+Tanzania,TZA,834,Sub-Saharan Africa,East Africa,2030,8.2,24.2,58.6,9.0,26640,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",67.6,32.4,8631.0
+Tanzania,TZA,834,Sub-Saharan Africa,East Africa,2035,5.8,20.6,63.2,10.4,30120,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",73.60000000000001,26.400000000000002,7952.0
+Ethiopia,ETH,231,Sub-Saharan Africa,East Africa,2020,36.4,30.2,29.8,3.6,36800,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",33.4,66.6,24509.0
+Ethiopia,ETH,231,Sub-Saharan Africa,East Africa,2025,29.1,28.8,36.4,5.7,41600,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",42.1,57.900000000000006,24086.0
+Ethiopia,ETH,231,Sub-Saharan Africa,East Africa,2030,22.4,26.9,43.2,7.5,46800,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",50.7,49.3,23072.0
+Ethiopia,ETH,231,Sub-Saharan Africa,East Africa,2035,16.8,24.2,49.8,9.2,52100,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",59.0,41.0,21361.0
+Rwanda,RWA,646,Sub-Saharan Africa,East Africa,2020,16.4,28.6,48.4,6.6,4240,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",55.0,45.0,1908.0
+Rwanda,RWA,646,Sub-Saharan Africa,East Africa,2025,12.2,25.2,53.8,8.8,4680,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",62.599999999999994,37.4,1750.0
+Rwanda,RWA,646,Sub-Saharan Africa,East Africa,2030,8.8,21.6,59.2,10.4,5120,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",69.60000000000001,30.400000000000002,1556.0
+Rwanda,RWA,646,Sub-Saharan Africa,East Africa,2035,5.9,18.2,64.1,11.8,5580,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",75.89999999999999,24.1,1345.0
+Mozambique,MOZ,508,Sub-Saharan Africa,East Africa,2020,38.6,30.4,27.4,3.6,15820,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",31.0,69.0,10916.0
+Mozambique,MOZ,508,Sub-Saharan Africa,East Africa,2025,31.8,28.6,34.0,5.6,18240,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",39.6,60.400000000000006,11017.0
+Mozambique,MOZ,508,Sub-Saharan Africa,East Africa,2030,25.2,26.4,40.8,7.6,21060,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",48.4,51.599999999999994,10867.0
+Mozambique,MOZ,508,Sub-Saharan Africa,East Africa,2035,19.2,24.0,47.4,9.4,24120,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",56.8,43.2,10420.0
+Zambia,ZMB,894,Sub-Saharan Africa,East Africa,2020,18.4,28.6,47.2,5.8,8440,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",53.0,47.0,3967.0
+Zambia,ZMB,894,Sub-Saharan Africa,East Africa,2025,14.2,25.4,52.6,7.8,9680,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",60.4,39.599999999999994,3833.0
+Zambia,ZMB,894,Sub-Saharan Africa,East Africa,2030,10.6,22.2,57.6,9.6,11080,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",67.2,32.8,3634.0
+Zambia,ZMB,894,Sub-Saharan Africa,East Africa,2035,7.6,19.0,62.2,11.2,12660,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",73.4,26.6,3368.0
+South Africa,ZAF,710,Sub-Saharan Africa,Southern Africa,2020,2.8,10.2,64.2,22.8,19260,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",87.0,13.0,2504.0
+South Africa,ZAF,710,Sub-Saharan Africa,Southern Africa,2025,1.9,8.4,63.8,25.9,19640,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",89.69999999999999,10.3,2023.0
+South Africa,ZAF,710,Sub-Saharan Africa,Southern Africa,2030,1.2,6.8,62.8,29.2,19840,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",92.0,8.0,1587.0
+South Africa,ZAF,710,Sub-Saharan Africa,Southern Africa,2035,0.8,5.4,61.2,32.6,19960,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",93.80000000000001,6.2,1238.0
+Zimbabwe,ZWE,716,Sub-Saharan Africa,Southern Africa,2020,12.4,20.8,56.4,10.4,4840,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",66.8,33.2,1607.0
+Zimbabwe,ZWE,716,Sub-Saharan Africa,Southern Africa,2025,9.2,17.6,61.2,12.0,5420,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",73.2,26.8,1453.0
+Zimbabwe,ZWE,716,Sub-Saharan Africa,Southern Africa,2030,6.6,14.8,65.4,13.2,6020,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",78.60000000000001,21.4,1288.0
+Zimbabwe,ZWE,716,Sub-Saharan Africa,Southern Africa,2035,4.6,12.2,69.0,14.2,6620,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",83.2,16.799999999999997,1112.0
+Malawi,MWI,454,Sub-Saharan Africa,Southern Africa,2020,30.4,36.4,30.2,3.0,7260,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",33.2,66.8,4850.0
+Malawi,MWI,454,Sub-Saharan Africa,Southern Africa,2025,24.8,33.6,36.4,5.2,8420,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",41.6,58.400000000000006,4917.0
+Malawi,MWI,454,Sub-Saharan Africa,Southern Africa,2030,19.4,30.4,42.6,7.6,9760,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",50.2,49.8,4860.0
+Malawi,MWI,454,Sub-Saharan Africa,Southern Africa,2035,14.6,27.2,48.6,9.6,11280,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",58.2,41.8,4715.0
+India,IND,356,South Asia,South Asia,2020,8.9,16.3,60.4,14.4,363800,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",74.8,25.200000000000003,91678.0
+India,IND,356,South Asia,South Asia,2025,5.8,12.9,63.2,18.1,356200,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",81.30000000000001,18.7,66609.0
+India,IND,356,South Asia,South Asia,2030,3.6,9.8,64.9,21.7,341600,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",86.60000000000001,13.4,45774.0
+India,IND,356,South Asia,South Asia,2035,2.1,7.4,65.1,25.4,322400,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",90.5,9.5,30628.0
+Bangladesh,BGD,50,South Asia,South Asia,2020,14.2,22.8,54.1,8.9,46200,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",63.0,37.0,17094.0
+Bangladesh,BGD,50,South Asia,South Asia,2025,10.1,18.9,59.8,11.2,45100,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",71.0,29.0,13079.0
+Bangladesh,BGD,50,South Asia,South Asia,2030,6.9,15.2,64.0,13.9,43400,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",77.9,22.1,9591.0
+Bangladesh,BGD,50,South Asia,South Asia,2035,4.4,11.9,66.8,16.9,41200,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",83.69999999999999,16.3,6716.0
+Pakistan,PAK,586,South Asia,South Asia,2020,22.4,20.4,48.6,8.6,62800,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",57.2,42.8,26878.0
+Pakistan,PAK,586,South Asia,South Asia,2025,17.8,18.2,54.2,10.0,68400,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",64.2,36.0,24624.0
+Pakistan,PAK,586,South Asia,South Asia,2030,13.4,15.8,59.6,11.2,73600,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",70.8,29.200000000000003,21491.0
+Pakistan,PAK,586,South Asia,South Asia,2035,9.6,13.6,64.2,12.6,78400,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",76.8,23.2,18189.0
+Nepal,NPL,524,South Asia,South Asia,2020,18.2,24.6,49.8,7.4,9260,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",57.199999999999996,42.8,3963.0
+Nepal,NPL,524,South Asia,South Asia,2025,13.6,21.4,55.4,9.6,9640,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",65.0,35.0,3374.0
+Nepal,NPL,524,South Asia,South Asia,2030,9.8,18.2,60.4,11.6,9880,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",72.0,28.0,2766.0
+Nepal,NPL,524,South Asia,South Asia,2035,6.8,15.2,64.6,13.4,9980,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",78.0,22.0,2196.0
+Sri Lanka,LKA,144,South Asia,South Asia,2020,2.4,8.6,66.2,22.8,4980,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",89.0,11.0,548.0
+Sri Lanka,LKA,144,South Asia,South Asia,2025,1.6,6.8,64.4,27.2,4760,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",91.60000000000001,8.4,400.0
+Sri Lanka,LKA,144,South Asia,South Asia,2030,1.0,5.2,62.2,31.6,4480,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",93.80000000000001,6.2,278.0
+Sri Lanka,LKA,144,South Asia,South Asia,2035,0.6,3.8,59.6,36.0,4200,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",95.6,4.3999999999999995,185.0
+Myanmar,MMR,104,South Asia,South Asia,2020,14.6,26.4,50.8,8.2,17640,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",59.0,41.0,7232.0
+Myanmar,MMR,104,South Asia,South Asia,2025,10.8,22.8,56.4,10.0,18200,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",66.4,33.6,6115.0
+Myanmar,MMR,104,South Asia,South Asia,2030,7.6,19.2,61.4,11.8,18440,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",73.2,26.799999999999997,4942.0
+Myanmar,MMR,104,South Asia,South Asia,2035,5.2,15.8,65.6,13.4,18420,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",79.0,21.0,3868.0
+Malaysia,MYS,458,Southeast Asia,Southeast Asia,2020,1.2,6.4,57.8,34.6,8420,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",92.4,7.6000000000000005,640.0
+Malaysia,MYS,458,Southeast Asia,Southeast Asia,2025,0.8,4.9,54.2,40.1,8290,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",94.30000000000001,5.7,473.0
+Malaysia,MYS,458,Southeast Asia,Southeast Asia,2030,0.5,3.7,50.8,45.0,8140,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",95.8,4.2,342.0
+Malaysia,MYS,458,Southeast Asia,Southeast Asia,2035,0.3,2.7,47.2,49.8,7980,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",97.0,3.0,239.0
+Indonesia,IDN,360,Southeast Asia,Southeast Asia,2020,4.2,14.8,60.4,20.6,70840,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",81.0,19.0,13460.0
+Indonesia,IDN,360,Southeast Asia,Southeast Asia,2025,2.8,11.6,62.8,22.8,70200,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",85.6,14.399999999999999,10109.0
+Indonesia,IDN,360,Southeast Asia,Southeast Asia,2030,1.8,8.8,64.2,25.2,68400,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",89.4,10.600000000000001,7250.0
+Indonesia,IDN,360,Southeast Asia,Southeast Asia,2035,1.1,6.6,64.6,27.7,65800,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",92.3,7.699999999999999,5067.0
+Philippines,PHL,608,Southeast Asia,Southeast Asia,2020,2.4,10.2,62.4,25.0,35640,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",87.4,12.6,4491.0
+Philippines,PHL,608,Southeast Asia,Southeast Asia,2025,1.6,7.8,62.8,27.8,35420,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",90.6,9.4,3329.0
+Philippines,PHL,608,Southeast Asia,Southeast Asia,2030,1.0,5.8,62.6,30.6,34640,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",93.2,6.8,2356.0
+Philippines,PHL,608,Southeast Asia,Southeast Asia,2035,0.6,4.2,62.0,33.2,33480,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",95.2,4.8,1607.0
+Vietnam,VNM,704,Southeast Asia,Southeast Asia,2020,2.8,12.4,62.8,22.0,25840,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",84.8,15.2,3928.0
+Vietnam,VNM,704,Southeast Asia,Southeast Asia,2025,1.8,9.6,64.2,24.4,24680,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",88.6,11.4,2814.0
+Vietnam,VNM,704,Southeast Asia,Southeast Asia,2030,1.0,7.0,65.2,26.8,23200,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",92.0,8.0,1856.0
+Vietnam,VNM,704,Southeast Asia,Southeast Asia,2035,0.6,4.8,65.4,29.2,21640,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",94.60000000000001,5.3999999999999995,1169.0
+Thailand,THA,764,Southeast Asia,Southeast Asia,2020,1.6,8.8,60.4,29.2,12840,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",89.6,10.4,1335.0
+Thailand,THA,764,Southeast Asia,Southeast Asia,2025,0.8,6.4,58.6,34.2,11960,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",92.80000000000001,7.2,861.0
+Thailand,THA,764,Southeast Asia,Southeast Asia,2030,0.4,4.4,56.4,38.8,10960,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",95.19999999999999,4.800000000000001,526.0
+Thailand,THA,764,Southeast Asia,Southeast Asia,2035,0.2,3.0,54.0,42.8,9880,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",96.8,3.2,316.0
+Cambodia,KHM,116,Southeast Asia,Southeast Asia,2020,14.8,28.4,50.4,6.4,5240,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",56.8,43.2,2264.0
+Cambodia,KHM,116,Southeast Asia,Southeast Asia,2025,10.6,24.8,56.2,8.4,5620,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",64.60000000000001,35.4,1989.0
+Cambodia,KHM,116,Southeast Asia,Southeast Asia,2030,7.2,21.2,61.4,10.2,5980,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",71.6,28.4,1698.0
+Cambodia,KHM,116,Southeast Asia,Southeast Asia,2035,4.6,17.6,66.0,11.8,6260,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",77.8,22.200000000000003,1390.0
+Laos,LAO,418,Southeast Asia,Southeast Asia,2020,18.4,28.6,46.8,6.2,2460,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",53.0,47.0,1156.0
+Laos,LAO,418,Southeast Asia,Southeast Asia,2025,13.8,25.4,52.4,8.4,2680,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",60.8,39.2,1051.0
+Laos,LAO,418,Southeast Asia,Southeast Asia,2030,9.8,22.0,58.0,10.2,2900,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",68.2,31.8,922.0
+Laos,LAO,418,Southeast Asia,Southeast Asia,2035,6.6,18.6,63.2,11.6,3120,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",74.8,25.200000000000003,786.0
+Morocco,MAR,504,MENA,North Africa,2020,18.6,18.4,50.8,12.2,11040,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",63.0,37.0,4085.0
+Morocco,MAR,504,MENA,North Africa,2025,13.8,15.6,55.4,15.2,11480,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",70.6,29.4,3375.0
+Morocco,MAR,504,MENA,North Africa,2030,9.6,12.8,59.6,18.0,11740,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",77.6,22.4,2630.0
+Morocco,MAR,504,MENA,North Africa,2035,6.4,10.4,62.8,20.4,11840,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",83.19999999999999,16.8,1989.0
+Egypt,EGY,818,MENA,North Africa,2020,10.8,18.2,56.4,14.6,36240,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",71.0,29.0,10510.0
+Egypt,EGY,818,MENA,North Africa,2025,7.8,14.8,60.2,17.2,37840,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",77.4,22.6,8552.0
+Egypt,EGY,818,MENA,North Africa,2030,5.2,11.6,63.6,19.6,38840,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",83.2,16.8,6525.0
+Egypt,EGY,818,MENA,North Africa,2035,3.4,8.8,66.2,21.6,39380,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",87.80000000000001,12.200000000000001,4804.0
+Tunisia,TUN,788,MENA,North Africa,2020,8.4,14.2,56.8,20.6,3520,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",77.4,22.6,796.0
+Tunisia,TUN,788,MENA,North Africa,2025,5.6,11.4,59.4,23.6,3460,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",83.0,17.0,588.0
+Tunisia,TUN,788,MENA,North Africa,2030,3.4,8.8,61.4,26.4,3360,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",87.8,12.200000000000001,410.0
+Tunisia,TUN,788,MENA,North Africa,2035,2.0,6.6,62.8,28.6,3220,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",91.4,8.6,277.0
+Jordan,JOR,400,MENA,Levant,2020,2.4,8.4,56.4,32.8,2980,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",89.19999999999999,10.8,322.0
+Jordan,JOR,400,MENA,Levant,2025,1.6,6.2,55.2,37.0,3120,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",92.2,7.800000000000001,243.0
+Jordan,JOR,400,MENA,Levant,2030,1.0,4.4,53.4,41.2,3200,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",94.6,5.4,173.0
+Jordan,JOR,400,MENA,Levant,2035,0.6,3.0,51.4,45.0,3220,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",96.4,3.6,116.0
+Colombia,COL,170,Latin America,South America,2020,4.6,14.8,58.4,22.2,15840,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",80.6,19.4,3073.0
+Colombia,COL,170,Latin America,South America,2025,3.0,11.8,59.6,25.6,15640,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",85.2,14.8,2315.0
+Colombia,COL,170,Latin America,South America,2030,1.8,9.0,60.2,29.0,15120,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",89.2,10.8,1633.0
+Colombia,COL,170,Latin America,South America,2035,1.0,6.6,60.2,32.2,14440,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",92.4,7.6,1097.0
+Peru,PER,604,Latin America,South America,2020,5.8,14.4,58.6,21.2,10040,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",79.8,20.2,2028.0
+Peru,PER,604,Latin America,South America,2025,3.8,11.2,60.8,24.2,9920,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",85.0,15.0,1488.0
+Peru,PER,604,Latin America,South America,2030,2.4,8.4,62.2,27.0,9640,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",89.2,10.8,1041.0
+Peru,PER,604,Latin America,South America,2035,1.4,6.0,63.0,29.6,9240,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",92.6,7.4,684.0
+Bolivia,BOL,68,Latin America,South America,2020,10.4,20.4,54.6,14.6,4880,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",69.2,30.799999999999997,1503.0
+Bolivia,BOL,68,Latin America,South America,2025,7.2,16.8,59.0,17.0,4960,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",76.0,24.0,1190.0
+Bolivia,BOL,68,Latin America,South America,2030,4.8,13.4,62.8,19.0,4980,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",81.8,18.2,906.0
+Bolivia,BOL,68,Latin America,South America,2035,3.0,10.4,66.0,20.6,4920,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",86.6,13.4,659.0
+Honduras,HND,340,Latin America,Central America,2020,12.4,24.8,53.6,9.2,4240,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",62.8,37.2,1577.0
+Honduras,HND,340,Latin America,Central America,2025,8.8,20.8,59.0,11.4,4480,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",70.4,29.6,1326.0
+Honduras,HND,340,Latin America,Central America,2030,5.8,17.0,63.8,13.4,4680,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",77.2,22.8,1067.0
+Honduras,HND,340,Latin America,Central America,2035,3.6,13.4,68.0,15.0,4860,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",83.0,17.0,826.0
+Haiti,HTI,332,Latin America,Caribbean,2020,34.2,30.8,30.6,4.4,4960,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",35.0,65.0,3224.0
+Haiti,HTI,332,Latin America,Caribbean,2025,27.8,28.4,37.2,6.6,5360,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",43.800000000000004,56.2,3012.0
+Haiti,HTI,332,Latin America,Caribbean,2030,21.8,25.6,43.8,8.8,5820,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",52.599999999999994,47.400000000000006,2759.0
+Haiti,HTI,332,Latin America,Caribbean,2035,16.4,22.6,50.4,10.6,6300,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",61.0,39.0,2457.0
+Uzbekistan,UZB,860,Central Asia,Central Asia,2020,2.2,8.4,64.8,24.6,10840,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",89.4,10.600000000000001,1149.0
+Uzbekistan,UZB,860,Central Asia,Central Asia,2025,1.4,6.2,64.4,28.0,11240,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",92.4,7.6,854.0
+Uzbekistan,UZB,860,Central Asia,Central Asia,2030,0.8,4.4,63.4,31.4,11480,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",94.8,5.2,597.0
+Uzbekistan,UZB,860,Central Asia,Central Asia,2035,0.4,3.0,62.0,34.6,11560,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",96.6,3.4,393.0
+Kyrgyzstan,KGZ,417,Central Asia,Central Asia,2020,2.8,10.4,62.4,24.4,1860,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",86.8,13.2,246.0
+Kyrgyzstan,KGZ,417,Central Asia,Central Asia,2025,1.8,7.8,63.2,27.2,1940,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",90.4,9.6,186.0
+Kyrgyzstan,KGZ,417,Central Asia,Central Asia,2030,1.0,5.6,63.6,29.8,1980,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",93.4,6.6,131.0
+Kyrgyzstan,KGZ,417,Central Asia,Central Asia,2035,0.6,3.8,63.4,32.2,1980,SSP2,15-29,"WIC Data Explorer v3.0, KC & Lutz 2017",95.6,4.3999999999999995,87.0

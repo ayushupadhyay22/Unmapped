@@ -1,0 +1,41 @@
+country,iso3,iso_num,region,subregion,fo_discount_factor,internet_penetration_pct,mobile_per_100,informal_economy_pct,avg_wage_usd_month,tech_adoption_index,lmic_automation_note,automation_arrival_index
+Ghana,GHA,288,Sub-Saharan Africa,West Africa,0.65,53.0,140.2,68.4,280,0.38,High informality; mobile money dominant; electricity gaps slow automation,0.0636
+Nigeria,NGA,566,Sub-Saharan Africa,West Africa,0.62,35.0,88.6,74.2,220,0.32,Large informal sector; oil-sector tech differs from general labour market,0.0289
+Senegal,SEN,686,Sub-Saharan Africa,West Africa,0.59,46.0,98.8,76.1,190,0.3,Growing fintech hub; but 76% informal; automation deployment limited,0.033
+Côte d'Ivoire,CIV,384,Sub-Saharan Africa,West Africa,0.6,36.0,96.4,77.8,210,0.29,Cocoa/agri dominant; urban Abidjan services modernising slowly,0.0232
+Mali,MLI,466,Sub-Saharan Africa,West Africa,0.52,16.0,78.4,82.1,140,0.18,Very high informality; low connectivity; subsistence agriculture dominant,0.0052
+Guinea,GIN,324,Sub-Saharan Africa,West Africa,0.5,18.0,80.2,84.3,120,0.16,Extractive economy; very low digital penetration,0.0045
+Kenya,KEN,404,Sub-Saharan Africa,East Africa,0.63,29.7,116.8,72.1,245,0.34,M-Pesa digital pioneer; but physical automation rare outside Nairobi,0.0282
+Uganda,UGA,800,Sub-Saharan Africa,East Africa,0.58,26.2,72.4,78.6,160,0.28,Very high informality; subsistence agriculture dominant,0.0157
+Tanzania,TZA,834,Sub-Saharan Africa,East Africa,0.59,20.2,86.4,74.8,180,0.29,Agriculture dominant; M-Pesa widely adopted but physical automation rare,0.0148
+Ethiopia,ETH,231,Sub-Saharan Africa,East Africa,0.55,14.8,52.4,80.1,140,0.22,Lowest digital penetration in sample; labour far cheaper than automation,0.0065
+Rwanda,RWA,646,Sub-Saharan Africa,East Africa,0.64,28.4,82.8,68.4,210,0.4,Government digital push (Vision 2050); but labour market still agricultural,0.0359
+Mozambique,MOZ,508,Sub-Saharan Africa,East Africa,0.53,17.0,60.2,82.4,130,0.19,Post-conflict; very high informality; rural subsistence economy,0.0057
+Zambia,ZMB,894,Sub-Saharan Africa,East Africa,0.57,16.0,84.8,78.2,155,0.24,Mining sector semi-automated; general economy highly informal,0.0084
+South Africa,ZAF,710,Sub-Saharan Africa,Southern Africa,0.76,68.2,164.6,34.2,820,0.62,Upper-middle income; formal mining/finance automated; townships informal,0.2782
+Zimbabwe,ZWE,716,Sub-Saharan Africa,Southern Africa,0.54,27.6,98.4,79.4,145,0.22,Economic instability; high informality; mobile money critical,0.0125
+Malawi,MWI,454,Sub-Saharan Africa,Southern Africa,0.5,14.0,56.6,84.2,110,0.15,Lowest wages in dataset; automation economically unviable vs labour,0.0033
+India,IND,356,South Asia,South Asia,0.72,46.3,84.6,66.8,380,0.52,Urban-rural split; IT sector advanced; large informal agricultural base,0.0799
+Bangladesh,BGD,50,South Asia,South Asia,0.68,38.9,108.2,71.4,290,0.44,Garment sector partial automation; large informal services; rapid digital growth,0.049
+Pakistan,PAK,586,South Asia,South Asia,0.65,36.2,80.4,72.8,260,0.38,Textile automation; informal economy 36% GDP; urban services digitising,0.0374
+Nepal,NPL,524,South Asia,South Asia,0.6,34.0,88.6,76.2,200,0.3,Remittance-dependent; high informality; agriculture dominant,0.0243
+Sri Lanka,LKA,144,South Asia,South Asia,0.73,52.4,128.4,58.4,420,0.54,Upper-middle income in region; garments + IT services growing,0.1177
+Myanmar,MMR,104,South Asia,South Asia,0.6,28.4,122.6,74.2,210,0.28,Political instability; garment sector; rural agriculture dominant,0.0205
+Malaysia,MYS,458,Southeast Asia,Southeast Asia,0.84,89.6,148.8,28.4,1240,0.76,Upper-middle income; Industry 4.0 programme; formal economy dominant,0.4876
+Indonesia,IDN,360,Southeast Asia,Southeast Asia,0.74,62.1,126.6,58.2,480,0.58,Manufacturing automation growing; Gojek/Grab reshaping gig transport,0.1506
+Philippines,PHL,608,Southeast Asia,Southeast Asia,0.72,67.0,142.2,62.4,420,0.55,BPO sector faces AI displacement; informal street economy insulated,0.1386
+Vietnam,VNM,704,Southeast Asia,Southeast Asia,0.76,73.2,132.8,54.6,580,0.62,Manufacturing automation accelerating; FDI-driven electronics assembly at risk,0.206
+Thailand,THA,764,Southeast Asia,Southeast Asia,0.79,77.8,142.4,42.4,720,0.68,Upper-middle income; tourism + manufacturing; significant automation adoption,0.3047
+Cambodia,KHM,116,Southeast Asia,Southeast Asia,0.62,49.8,122.4,70.2,240,0.38,Garment sector dominant; cheap labour vs automation cost,0.0564
+Laos,LAO,418,Southeast Asia,Southeast Asia,0.58,32.6,88.4,76.8,195,0.26,Agriculture dominant; low connectivity; very limited automation,0.0197
+Morocco,MAR,504,MENA,North Africa,0.72,84.1,132.6,46.8,540,0.58,Formal economy growing; tourism/services; urban informality moderate,0.2595
+Egypt,EGY,818,MENA,North Africa,0.7,71.9,96.4,52.1,420,0.52,Large informal sector; public employment dominant; private automation growing,0.1791
+Tunisia,TUN,788,MENA,North Africa,0.72,66.4,128.6,44.8,480,0.56,More formalised than regional peers; manufacturing export-oriented,0.2053
+Jordan,JOR,400,MENA,Levant,0.73,66.0,114.8,48.2,560,0.58,Refugee labour pressures; formal service sector growing; IT hub emerging,0.1983
+Colombia,COL,170,Latin America,South America,0.78,73.0,134.4,58.2,580,0.62,Urban-rural divide; Bogotá formalising fast; rural agriculture manual,0.1892
+Peru,PER,604,Latin America,South America,0.76,71.6,126.4,62.4,520,0.58,Mining semi-automated; informal urban economy large,0.1561
+Bolivia,BOL,68,Latin America,South America,0.68,54.0,100.8,68.4,360,0.46,High informality; extractive economy; rural subsistence agriculture,0.0785
+Honduras,HND,340,Latin America,Central America,0.68,32.0,108.2,72.4,320,0.38,High migration pressure; maquila manufacturing; informal economy large,0.0336
+Haiti,HTI,332,Latin America,Caribbean,0.52,14.0,70.6,86.4,120,0.14,Poorest in Western hemisphere; reconstruction economy; minimal automation,0.0027
+Uzbekistan,UZB,860,Central Asia,Central Asia,0.68,54.8,102.6,58.4,340,0.44,Rapid digitisation under reform; significant agricultural informality,0.1003
+Kyrgyzstan,KGZ,417,Central Asia,Central Asia,0.64,48.6,96.4,62.8,280,0.38,Remittance-dependent; informal bazaar economy significant,0.0687
